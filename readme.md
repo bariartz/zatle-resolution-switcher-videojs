@@ -2,3 +2,5 @@
 This Plugin For VideoJS Version 8
 
 # Zatle Studio
+
+This for developer branch
